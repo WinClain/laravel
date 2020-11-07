@@ -1,0 +1,31 @@
+
+html{
+    box-sizing: border-box;
+    height: 100%;
+}
+
+*{
+    box-sizing: inherit;
+}
+
+.boddy{
+    display: flex;
+    flex-direction: column;
+}
+
+.white-theme{
+    background: white;
+}
+
+.white-theme {
+    color: black;
+}
+
+.black-theme{
+    background: black;
+    color: black;
+}
+
+.black-theme {
+    color: white;
+}
